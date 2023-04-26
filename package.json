@@ -1,0 +1,18 @@
+{
+  "name": "personal-trainer-ai",
+  "version": "0.0.17",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.2",
+    "@tensorflow/tfjs": "^4.4.0",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
